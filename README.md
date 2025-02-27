@@ -39,19 +39,22 @@ Let's connect and collaborate! You can find me on:
 ---
 
 ## 🚀 **Featured Repositories**  
-Here are some of my notable projects:  
+Here are some of my notable projects with dynamic stats and animations:  
 
-### 1. **[Project Name 1](https://github.com/your-repo-link)**  
-   - A brief description of the project.  
-   - **Tech Stack**: PHP, Laravel, MySQL, JavaScript  
+### 1. **[Repository Name 1](https://github.com/ankitbelal/repo-name-1)**  
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=repo-name-1&theme=radical)  
+- A brief description of the project.  
+- **Tech Stack**: PHP, Laravel, MySQL, JavaScript  
 
-### 2. **[Project Name 2](https://github.com/your-repo-link)**  
-   - A brief description of the project.  
-   - **Tech Stack**: Python, Flask, HTML, CSS  
+### 2. **[Repository Name 2](https://github.com/ankitbelal/repo-name-2)**  
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=repo-name-2&theme=radical)  
+- A brief description of the project.  
+- **Tech Stack**: Python, Flask, HTML, CSS  
 
-### 3. **[Project Name 3](https://github.com/your-repo-link)**  
-   - A brief description of the project.  
-   - **Tech Stack**: Java, Spring Boot, React  
+### 3. **[Repository Name 3](https://github.com/ankitbelal/repo-name-3)**  
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=repo-name-3&theme=radical)  
+- A brief description of the project.  
+- **Tech Stack**: Java, Spring Boot, React  
 
 ---
 
@@ -75,8 +78,10 @@ Here's a visual representation of my skills:
 
 ---
 
+## 🎨 **Animations**  
+Here are some fun animations to make this README more lively:  
 
-
+### Animated GIF  
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ### Animated SVG  
