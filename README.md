@@ -41,20 +41,25 @@ Let's connect and collaborate! You can find me on:
 ## 🚀 **Featured Repositories**  
 Here are some of my notable projects with dynamic stats and animations:  
 
-### 1. **[Repository Name 1](https://github.com/ankitbelal/repo-name-1)**  
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=repo-name-1&theme=radical)  
+### 1. **[Internship](https://github.com/ankitbelal/internship)**  
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=internship&theme=radical)  
 - A brief description of the project.  
 - **Tech Stack**: PHP, Laravel, MySQL, JavaScript  
 
-### 2. **[Repository Name 2](https://github.com/ankitbelal/repo-name-2)**  
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=repo-name-2&theme=radical)  
+### 2. **[LMS Project](https://github.com/ankitbelal/LMS-project3)**  
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=LMS-project3&theme=radical)  
 - A brief description of the project.  
-- **Tech Stack**: Python, Flask, HTML, CSS  
+- **Tech Stack**: PHP, Laravel, Bootstrap, MySQL  
 
-### 3. **[Repository Name 3](https://github.com/ankitbelal/repo-name-3)**  
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=repo-name-3&theme=radical)  
+### 3. **[School Management System](https://github.com/ankitbelal/Project-II-dotnet-desktop-app-school-mgmt-sys)**  
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=Project-II-dotnet-desktop-app-school-mgmt-sys&theme=radical)  
 - A brief description of the project.  
-- **Tech Stack**: Java, Spring Boot, React  
+- **Tech Stack**: .NET, C#, Desktop Application  
+
+### 4. **[Cafeteria Billing System](https://github.com/ankitbelal/project-I-Desktop-Console-App-Cafeteria-Billing-management-system)**  
+![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=project-I-Desktop-Console-App-Cafeteria-Billing-management-system&theme=radical)  
+- A brief description of the project.  
+- **Tech Stack**: C#, Console Application  
 
 ---
 
