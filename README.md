@@ -75,10 +75,19 @@ Here's a visual representation of my skills:
 
 ---
 
+## 🎨 **Animations**  
+Here are some fun animations to make this README more lively:  
+
+### Animated GIF  
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
+
+### Animated SVG  
+![Visitor Count](https://komarev.com/ghpvc/?username=ankitbelal&label=Profile%20Views&color=blue&style=flat-square)  
+
+---
+
 ## 📫 **Let's Collaborate!**  
-I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/
-ankit-belal-398968183
-) or [email](mailto:aankitbelal@gmail.com).  
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/ankit-belal-398968183) or [email](mailto:your-email@example.com).  
 
 Thanks for visiting my profile! 😄  
 
