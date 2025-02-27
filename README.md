@@ -75,10 +75,8 @@ Here's a visual representation of my skills:
 
 ---
 
-## 🎨 **Animations**  
-Here are some fun animations to make this README more lively:  
 
-### Animated GIF  
+
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)  
 
 ### Animated SVG  
