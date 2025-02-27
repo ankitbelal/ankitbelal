@@ -46,28 +46,28 @@ Here are some of my notable projects with dynamic stats and glowing gradient fla
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=internship&theme=radical&border_color=FF00FF)  
 - A platform for managing internship workflows and tracking progress.  
 - **Tech Stack**: PHP, Laravel, MySQL, JavaScript  
-![Glowing Border](https://via.placeholder.com/400x150.png?text=Glowing+Magenta-Red-Blue-Green+Border)  
+
 
 ### 2. **[LMS Project](https://github.com/ankitbelal/LMS-project3)**  
 ![LMS Project](https://img.shields.io/badge/LMS%20Project-Learning-FF4040?style=for-the-badge&logo=github&colorA=FF4040&colorB=4040FF)  
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=LMS-project3&theme=radical&border_color=FF4040)  
 - A learning management system for course and student administration.  
 - **Tech Stack**: PHP, Laravel, Bootstrap, MySQL  
-![Glowing Border](https://via.placeholder.com/400x150.png?text=Glowing+Magenta-Red-Blue-Green+Border)  
+
 
 ### 3. **[School Management System](https://github.com/ankitbelal/Project-II-dotnet-desktop-app-school-mgmt-sys)**  
 ![School Management](https://img.shields.io/badge/School%20Mgmt-System-4040FF?style=for-the-badge&logo=github&colorA=4040FF&colorB=00FF00)  
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=Project-II-dotnet-desktop-app-school-mgmt-sys&theme=radical&border_color=4040FF)  
 - A desktop app for managing school records and operations.  
 - **Tech Stack**: .NET, C#, Desktop Application  
-![Glowing Border](https://via.placeholder.com/400x150.png?text=Glowing+Magenta-Red-Blue-Green+Border)  
+ 
 
 ### 4. **[Cafeteria Billing System](https://github.com/ankitbelal/project-I-Desktop-Console-App-Cafeteria-Billing-management-system)**  
 ![Cafeteria Billing](https://img.shields.io/badge/Cafeteria%20Billing-System-00FF00?style=for-the-badge&logo=github&colorA=00FF00&colorB=FF00FF)  
 ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=project-I-Desktop-Console-App-Cafeteria-Billing-management-system&theme=radical&border_color=00FF00)  
 - A console-based billing system for cafeteria transactions.  
 - **Tech Stack**: C#, Console Application  
-![Glowing Border](https://via.placeholder.com/400x150.png?text=Glowing+Magenta-Red-Blue-Green+Border)  
+
 
 ---
 
