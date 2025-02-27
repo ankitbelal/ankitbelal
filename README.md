@@ -76,7 +76,9 @@ Here's a visual representation of my skills:
 ---
 
 ## 📫 **Let's Collaborate!**  
-I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or [email](mailto:your-email@example.com).  
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via [LinkedIn](www.linkedin.com/in/
+ankit-belal-398968183
+) or [email](mailto:your-email@example.com).  
 
 Thanks for visiting my profile! 😄  
 
