@@ -42,26 +42,32 @@ Let's connect and collaborate! You can find me on:
 Here are some of my notable projects with dynamic stats and animations:  
 
 ### 1. **[Internship](https://github.com/ankitbelal/internship)**  
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=internship&theme=radical)  
+<div style="border: 2px solid #FF00FF; box-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 30px #FF00FF; padding: 10px; border-radius: 10px;">
+  ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=internship&theme=radical)  
+</div>
 - A brief description of the project.  
 - **Tech Stack**: PHP, Laravel, MySQL, JavaScript  
 
 ### 2. **[LMS Project](https://github.com/ankitbelal/LMS-project3)**  
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=LMS-project3&theme=radical)  
+<div style="border: 2px solid #FF00FF; box-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 30px #FF00FF; padding: 10px; border-radius: 10px;">
+  ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=LMS-project3&theme=radical)  
+</div>
 - A brief description of the project.  
 - **Tech Stack**: PHP, Laravel, Bootstrap, MySQL  
 
 ### 3. **[School Management System](https://github.com/ankitbelal/Project-II-dotnet-desktop-app-school-mgmt-sys)**  
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=Project-II-dotnet-desktop-app-school-mgmt-sys&theme=radical)  
+<div style="border: 2px solid #FF00FF; box-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 30px #FF00FF; padding: 10px; border-radius: 10px;">
+  ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=Project-II-dotnet-desktop-app-school-mgmt-sys&theme=radical)  
+</div>
 - A brief description of the project.  
 - **Tech Stack**: .NET, C#, Desktop Application  
 
 ### 4. **[Cafeteria Billing System](https://github.com/ankitbelal/project-I-Desktop-Console-App-Cafeteria-Billing-management-system)**  
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=project-I-Desktop-Console-App-Cafeteria-Billing-management-system&theme=radical)  
+<div style="border: 2px solid #FF00FF; box-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 30px #FF00FF; padding: 10px; border-radius: 10px;">
+  ![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=project-I-Desktop-Console-App-Cafeteria-Billing-management-system&theme=radical)  
+</div>
 - A brief description of the project.  
 - **Tech Stack**: C#, Console Application  
-
----
 
 ## 📊 **GitHub Stats**  
 ![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitbelal&show_icons=true&theme=radical)  
