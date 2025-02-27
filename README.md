@@ -1,56 +1,85 @@
-<h2 align="left">Hi iam ankit, PHP backend Developer</h2>
+# 👋 Hi, I'm Ankit!  
+**Software Developer | PHP Laravel Backend Specialist**  
 
-###
+Welcome to my GitHub profile! I'm a passionate software developer with expertise in PHP Laravel backend development. I love building scalable, efficient, and clean code solutions. I also enjoy exploring new technologies and expanding my skill set.  
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ankitbelal/count.svg?"  />
-</div>
+---
 
-###
+## 🛠️ **Skills**  
+Here are some of the technologies and tools I work with:  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitbelal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitbelal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### **Programming Languages**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
-###
+### **Web Development**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### **Tools & Technologies**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-</div>
+## 🌐 **Connect with Me**  
+Let's connect and collaborate! You can find me on:  
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitbelal)  
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+## 🚀 **Featured Repositories**  
+Here are some of my notable projects:  
 
-<br clear="both">
+### 1. **[Project Name 1](https://github.com/your-repo-link)**  
+   - A brief description of the project.  
+   - **Tech Stack**: PHP, Laravel, MySQL, JavaScript  
 
-<img src="https://raw.githubusercontent.com/ankitbelal/ankitbelal/output/snake.svg" alt="Snake animation" />
+### 2. **[Project Name 2](https://github.com/your-repo-link)**  
+   - A brief description of the project.  
+   - **Tech Stack**: Python, Flask, HTML, CSS  
 
-###
+### 3. **[Project Name 3](https://github.com/your-repo-link)**  
+   - A brief description of the project.  
+   - **Tech Stack**: Java, Spring Boot, React  
+
+---
+
+## 📊 **GitHub Stats**  
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitbelal&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitbelal&layout=compact&theme=radical)  
+
+---
+
+## 💡 **Skills Progress Bar**  
+Here's a visual representation of my skills:  
+
+![PHP](https://img.shields.io/badge/PHP-80%25-777BB4?style=flat-square)  
+![Laravel](https://img.shields.io/badge/Laravel-85%25-FF2D20?style=flat-square)  
+![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=flat-square)  
+![Python](https://img.shields.io/badge/Python-60%25-3776AB?style=flat-square)  
+![Java](https://img.shields.io/badge/Java-70%25-ED8B00?style=flat-square)  
+![C](https://img.shields.io/badge/C-65%25-00599C?style=flat-square)  
+![C++](https://img.shields.io/badge/C%2B%2B-70%25-00599C?style=flat-square)  
+
+---
+
+## 📫 **Let's Collaborate!**  
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) or [email](mailto:your-email@example.com).  
+
+Thanks for visiting my profile! 😄  
+
+---
+
+⭐️ **Star my repositories if you find them interesting!** ⭐️
