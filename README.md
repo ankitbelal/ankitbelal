@@ -33,9 +33,7 @@ Here are some of the technologies and tools I work with:
 ## 🌐 **Connect with Me**  
 Let's connect and collaborate! You can find me on:  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-ankit-belal-398968183
-)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-belal-398968183)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitbelal)  
 
 ---
