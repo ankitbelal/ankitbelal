@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ankit!  
-**Software Developer | PHP Laravel Backend Specialist**  
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=800&height=50&lines=Software+Developer+%7C+PHP+Laravel+Backend+Specialist)
 
 Welcome to my GitHub profile! I'm a passionate software developer with expertise in PHP Laravel backend development. I love building scalable, efficient, and clean code solutions. I also enjoy exploring new technologies and expanding my skill set.  
 
