@@ -70,11 +70,6 @@ Here are some of my notable projects with dynamic stats and glowing gradient fla
 
 
 
-  ### 5. **[Todo App Laravl](https://github.com/ankitbelal/todoApp.git)**  
-![Cafeteria Billing System](https://img.shields.io/badge/Todo%20App%20Laravek-00FF00?style=for-the-badge&logo=github&colorA=00FF00&colorB=FF00FF&labelColor=FFFFFF)  
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=ankitbelal&repo=project-I-Desktop-Console-App-Cafeteria-Billing-management-system&theme=radical&border_color=00FF00)  
-- A console-based billing system for cafeteria transactions.  
-- **Tech Stack**: C#, Console Application
 
 
 ---
