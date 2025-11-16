@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ankit Belal!  
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=900&height=50&lines=NestJS%20%7C%20React%20%7C%20Node.js%20%7C%20Vue.js%20%7C%20Laravel%20%7C%20SpringBoot%20%7C%20Mobile%20App%20Developer)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=50&lines=NestJS%20%7C%20React%20%7C%20Node.js%20%7C%20Vue.js%20%7C%20Laravel%20%7C%20Spring%20%7C%20Mobile%20App&repeat=true)
 
 
 Welcome to my GitHub profile! I am a passionate software developer from **Nepal**, specializing in **backend development**, **full-stack solutions**, and **mobile app development**. I enjoy building **scalable, clean, and efficient code** while exploring new technologies like **Docker, AWS, Node.js, NestJS, Vue.js, and more**.  
